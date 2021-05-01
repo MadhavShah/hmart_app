@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621358611173",
+    "project_id": "hmart-f6449",
+    "storage_bucket": "hmart-f6449.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621358611173:android:885479b95931aa7d4e320c",
+        "android_client_info": {
+          "package_name": "com.example.hmart_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621358611173-v33b151lse5bvvka1ond8mqk5v85rt7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIJILQqxeR168sxTyZbTQRdePvm_0CMUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621358611173-v33b151lse5bvvka1ond8mqk5v85rt7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
